@@ -1,0 +1,2 @@
+# Customer-Churn-Prediction-Using-Artificial-Neural-Network-ANN-
+The Customer Churn Prediction Using ANN project develops a model to identify customers likely to churn. Leveraging advanced ML techniques, particularly ANNs, it analyzes historical customer data to predict churn accurately. This enables companies to take proactive measures to retain customers, reducing revenue loss and enhancing satisfaction.
